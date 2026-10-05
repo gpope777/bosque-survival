@@ -1,7 +1,7 @@
 # Bosque Online — guía para Claude
 
 Juego co-op en navegador (Three.js + Cloudflare Workers/Durable Objects) para Gabriel y sus sobrinos (12 y 10), sobre todo en **móvil**. En vivo: https://bosque.juegodk.workers.dev (merge a `main` = deploy automático por GitHub Actions).
-Repo: `gpope777/bosque-survival` (antes `Website-IS`); carpeta local `C:Usersgabribosque-survival`.
+Repo: `gpope777/bosque-survival` (antes `Website-IS`); carpeta local `C:/Users/gabri/bosque-survival`.
 
 ## Lee primero
 1. `docs/superpowers/HANDOFF-aventura.md` → sección **"ESTADO DEL PROYECTO — leer primero"**: estado, qué probar en teléfono, checklist de playtest, drop-ins de assets, rollback. Debajo, la historia completa con un "resumen" por fase y cada decisión marcada **"Decidido por Claude — revisar"**.
