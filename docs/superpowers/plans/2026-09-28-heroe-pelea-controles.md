@@ -160,9 +160,9 @@ export const HERO_PALETTE: Record<Body, { cloth: [number, number][]; skin: [numb
 - [ ] **Step 4: Run the script and eyeball the palette**
 
 ```bash
-cd C:/Users/gabri/AppData/Local/Temp/claude/C--Users-gabri-Website-IS/b0fdb4b8-3ab3-4517-9288-8a5f1ac44650/scratchpad/kaykit
+cd C:/Users/gabri/AppData/Local/Temp/claude/C--Users-gabri-bosque-survival/b0fdb4b8-3ab3-4517-9288-8a5f1ac44650/scratchpad/kaykit
 npm i --no-save @gltf-transform/core @gltf-transform/functions pngjs
-node C:/Users/gabri/Website-IS/scripts/prep-heroe.mjs .
+node C:/Users/gabri/bosque-survival/scripts/prep-heroe.mjs .
 ```
 (The script resolves output paths relative to its own location, `scripts/..`.) Check that the Knight's cloth cells include the blue cells and not the metal greys; if the heuristic misses, adjust thresholds in the script (never hand-edit the generated file).
 

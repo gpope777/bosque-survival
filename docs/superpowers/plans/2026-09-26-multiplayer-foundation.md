@@ -77,7 +77,7 @@ Old `src/game/`, `src/ui/`, `src/main.ts` are deleted in Task 14 (git history ke
 - [ ] **Step 1: Move files and fix imports**
 
 ```bash
-cd ~/Website-IS
+cd ~/bosque-survival
 mkdir -p src/shared
 git mv src/game/rng.ts src/shared/rng.ts
 git mv src/game/noise.ts src/shared/noise.ts
@@ -4265,7 +4265,7 @@ jobs:
 ```bash
 git rm .github/workflows/pages.yml
 ```
-GitHub Pages keeps serving its last deployment, so the old single-player Bosque stays at `gpope777.github.io/Website-IS/`.
+GitHub Pages keeps serving its last deployment, so the old single-player Bosque stays at `gpope777.github.io/bosque-survival/`.
 
 - [ ] **Step 2: Rewrite README.md**
 

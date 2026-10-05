@@ -367,7 +367,7 @@ it('a custom bounds function clamps the step (dungeon walls)', ...);
 
 - [ ] Append "## Plan F" to `docs/superpowers/HANDOFF-aventura.md` (Spanish): commits, test counts, decisions, blockers, what to test in-game.
 - [ ] Commit + `git push origin aventura/slice-1`.
-- [ ] One short comment on PR #2 (gpope777/Website-IS). **Do not merge** (merge = deploy).
+- [ ] One short comment on PR #2 (gpope777/bosque-survival). **Do not merge** (merge = deploy).
 
 ## Self-review notes
 

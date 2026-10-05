@@ -79,7 +79,7 @@
 - Decisiones de alcance grandes: escalada = fallback de pilares marcados (D, el terreno no tiene pendientes >30°); Enredadera se obtiene en el altar de la mazmorra (F); mazmorra "instanciada" = zona fuera del mapa en la misma sala (F); el pill 🎥 cámara se cambió por 🌿 poder (E, cámara sigue en tecla C y Menú); la mochila ahora cae en una tumba al reaparecer (C).
 
 
-PR draft: https://github.com/gpope777/Website-IS/pull/2 (NO merge: merge a main = deploy).
+PR draft: https://github.com/gpope777/bosque-survival/pull/2 (NO merge: merge a main = deploy).
 
 ## Plan A — HECHO
 - Commits: 32f50a6 (T1 items/protocolo v2), fff4221 (T2 Corazón), 171cab3 (T3 raider AI), a391bf8 (T4 asedios), 0e05933 (T5 cliente).

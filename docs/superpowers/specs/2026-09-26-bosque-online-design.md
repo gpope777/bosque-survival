@@ -56,7 +56,7 @@ at lower density, draw distance and resolution.
 
 **Update (2026-09-26, later):** #3 and #5 merged into the BotW-style "Aventura" track, built biome by biome. See `2026-09-26-bosque-aventura-design.md`.
 
-The old Bosque stays live at `gpope777.github.io/Website-IS/` until the new version replaces it. Its relics, creatures, boss
+The old Bosque stays live at `gpope777.github.io/bosque-survival/` until the new version replaces it. Its relics, creatures, boss
 and lore return in #5, redesigned rather than ported one to one.
 
 ---
@@ -92,7 +92,7 @@ Biomes, new visuals, raids, levels, customization, quests, bosses, shops, the ol
 
 ### Architecture
 
-One repo (`Website-IS`), one Cloudflare deployment.
+One repo (`bosque-survival`), one Cloudflare deployment.
 
 ```
 shared/   pure TS: seeded world gen (terrain, resource placement), items, recipes, combat math,
